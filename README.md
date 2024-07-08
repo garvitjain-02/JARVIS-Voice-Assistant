@@ -1,5 +1,6 @@
 # J.A.R.V.I.S - Desktop Voice Assistant 🎙️💻
 
+## Getting Started 🚀
 Welcome to **JARVIS**, your desktop voice assistant! Jarvis is designed to make your life easier by responding to your voice commands, fetching the latest news and weather updates, opening applications, and entertaining you with jokes 🗣️
 
 ## Features ✨
@@ -12,8 +13,6 @@ Welcome to **JARVIS**, your desktop voice assistant! Jarvis is designed to make 
 - **Entertainment**: Tells jokes using the Pyjokes library.
 - **Date and Time**: Provides the current date and time.
 
-## Getting Started 🚀
-
 ## Technologies Used 🛠️
 **Python**: Main programming language.
 **SpeechRecognition**: For recognizing speech input.
@@ -25,16 +24,6 @@ Welcome to **JARVIS**, your desktop voice assistant! Jarvis is designed to make 
 **Pyjokes**: For generating jokes.
 **DateTime**: For handling date and time.
 **Config**: For managing API keys (news and weather).
-
-## Features🌟
-**Speech Recognition**: Listens to and processes voice commands.
-**Text-to-Speech**: Respond to queries with spoken responses.
-**Open Applications**: Opens specified applications on the system.
-**Fetch News**: Retrieves the latest news headlines.
-**Weather Updates**: Provides weather information for a given city.
-**Web Automation**: Opens specified websites.
-**Entertainment**: Tells jokes using the Pyjokes library.
-**Date and Time**: Provides the current date and time.
 
 ### Prerequisites 📚
 Make sure you have Python installed on your system. You can download it from the web.
