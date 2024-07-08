@@ -14,25 +14,28 @@ Welcome to **JARVIS**, your desktop voice assistant! Jarvis is designed to make 
 - **Date and Time**: Provides the current date and time.
 
 ## Technologies Used 🛠️
-**Python**: Main programming language.
-**SpeechRecognition**: For recognizing speech input.
-**Pyttsx3**: For text-to-speech conversion.
-**Requests**: For making HTTP requests (news and weather).
-**Webbrowser**: For opening web pages.
-**Subprocess**: For running system commands.
-**Platform**: For identifying the operating system.
-**Pyjokes**: For generating jokes.
-**DateTime**: For handling date and time.
-**Config**: For managing API keys (news and weather).
+- **Python**: Main programming language.
+- **SpeechRecognition**: For recognizing speech input.
+- **Pyttsx3**: For text-to-speech conversion.
+- **Requests**: For making HTTP requests (news and weather).
+- **Webbrowser**: For opening web pages.
+- **Subprocess**: For running system commands.
+- **Platform**: For identifying the operating system.
+- **Pyjokes**: For generating jokes.
+- **DateTime**: For handling date and time.
+- **Config**: For managing API keys (news and weather).
 
-### Prerequisites 📚
+## Prerequisites 📚
 Make sure you have Python installed on your system. You can download it from the web.
 
 ## Contribution Guidelines 🤝
 Want to make Jarvis even more awesome? We welcome contributions! Fork the repository, propose changes, and submit pull requests.
 
 ### Usage
-Run the `main.py` script to start Jarvis:
+- **Add Your API Keys**:
+Replace newsapi and weatherapi placeholders in the config.py file with your actual API keys from NewsAPI and OpenWeatherMap.
+
+- Run the `main.py` script to start Jarvis:
 ```bash
 python main.py
 
