@@ -34,8 +34,3 @@ Want to make Jarvis even more awesome? We welcome contributions! Fork the reposi
 ### Usage
 - **Add Your API Keys**:
 Replace newsapi and weatherapi placeholders in the config.py file with your actual API keys from NewsAPI and OpenWeatherMap.
-
-- Run the `main.py` script to start Jarvis:
-```bash
-python main.py
-
